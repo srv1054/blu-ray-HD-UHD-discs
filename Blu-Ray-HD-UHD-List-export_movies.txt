@@ -15,7 +15,7 @@ Title;Genre;Runtime;Director;Format;"Added Date";Distributor
 Adventureland;"Comedy, Drama, Romance";107;"Greg Mottola";Blu-Ray;"Mar 07, 2018";"Miramax Lions Gate"
 "The Adventures of André and Wally B.";"Animation, Comedy, Family";2;"Alvy Ray Smith";Blu-Ray;"Jun 20, 2018";
 "The Adventures of Buckaroo Banzai Across the 8th Dimension!";"Adventure, Comedy, Romance, Science Fiction";103;"W.D. Richter";Blu-Ray;"Jun 17, 2018";"Shout! Factory"
-"After The Fox";"Comedy, Crime";103;"Vittorio De Sica, Vittorio De Sica";Blu-Ray;"Nov 30, 2018";"Kino Lorber Studio Classics"
+"After The Fox";"Comedy, Crime";103;"Vittorio De Sica";Blu-Ray;"Nov 30, 2018";"Kino Lorber Studio Classics"
 Airport;"Action, Drama, Thriller";471;"Henry Hathaway, George Seaton";Blu-Ray;"Jun 20, 2018";
 "Airport 1975";"Action, Adventure, Drama, Thriller";106;"Jack Smight";Blu-Ray;"Jun 20, 2018";
 "Airport '77";"Action, Adventure, Drama, Thriller";114;"Jerry Jameson";Blu-Ray;"Jun 20, 2018";
@@ -44,15 +44,15 @@ Ansiktet;"Drama, Foreign";100;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 "Ant-Man and The Wasp";"Action, Adventure, Comedy, Family, Fantasy, Romance, Science Fiction";118;"Peyton Reed";"Ultra HD Blu-ray";"Oct 14, 2018";"Buena Vista Home Entertainment"
 "Any Which Way You Can";"Action, Comedy";116;"Buddy Van Horn";Blu-Ray;"Jun 20, 2018";
 "Armed And Dangerous";"Action, Comedy, Crime";88;"Mark L. Lester";Blu-Ray;"Nov 11, 2018";Image
-"The Arrested Development Documentary Project";"Comedy, Documentary";75;"Jeff Smith";"Blu-ray Disc";"Jan 11, 2019";
+"The Arrested Development Documentary Project";"Comedy, Documentary";75;"Jeff Smith";Blu-Ray;"Jan 11, 2019";
 "Point Of No Return";"Action, Adventure, Drama, Romance";109;"John Badham";Blu-Ray;"Mar 11, 2018";"Warner Home Video"
 "The Assassination of Jesse James by the Coward Robert Ford";"Biography, Crime, Drama, Music, Science Fiction, Western";160;"Andrew Dominik";Blu-Ray;"Jun 20, 2018";
 "Auntie Mame";"Comedy, Drama";143;"Morton DaCosta";Blu-Ray;"Jan 15, 2018";"Warner Home Video"
 "Aus dem Leben der Marionetten";"Adult, Drama";100;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 "Autumn Sonata";"Drama, Foreign, Music";99;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
-"Avatar: The Last Airbender: Book 1: Water";"Action, Adventure, Animation, Anime, Children, Family, Fantasy, Mystery";95;"Dave Filoni, Giancarlo Volpo";Blu-Ray;"Jun 20, 2018";
-"Avatar: The Last Airbender: Book 2: Earth";"Adventure, Anime";123;"Giancarlo Volpe";Blu-Ray;"Jun 20, 2018";
-"Avatar: The Last Airbender: Book 3: Fire";"Animation, Anime, Fantasy";123;"Dave Filoni";Blu-Ray;"Jun 20, 2018";
+"Avatar: The Last Airbender: Book 1: Water";"Action, Adventure, Animation, Anime, Children, Family, Fantasy, Mystery";95;"Dave Filoni, Lauren MacMullan, Michael Dante Dimartino";Blu-Ray;"Jun 20, 2018";
+"Avatar: The Last Airbender: Book 2: Earth";"Adventure, Anime";123;"Lauren MacMullan, Michael Dante Dimartino, Giancarlo Volpe";Blu-Ray;"Jun 20, 2018";
+"Avatar: The Last Airbender: Book 3: Fire";"Animation, Anime, Fantasy";123;"Joaquim Dos Santos, Giancarlo Volpe, Ethan Spaulding";Blu-Ray;"Jun 20, 2018";
 "Avengers: Infinity War";"Action, Adventure, Fantasy, Science Fiction";149;"Anthony Russo, Joe Russo";Blu-Ray;"Aug 19, 2018";
 "AVPR: Aliens vs Predator - Requiem";"Action, Horror, Science Fiction";100;"Colin Strause, Greg Strause";Blu-Ray;"Jan 15, 2018";
 "Baby Driver";"Action, Comedy, Crime, Music, Thriller";112;"Edgar Wright";"Ultra HD Blu-ray";"Jan 16, 2018";"Sony Pictures"
@@ -62,7 +62,7 @@ Ansiktet;"Drama, Foreign";100;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 "Bad Santa";"Comedy, Crime";99;"Terry Zwigoff";Blu-Ray;"Jan 15, 2018";"Miramax Lions Gate"
 "Bad Santa 2";"Comedy, Crime, Drama";87;"Mark Waters";Blu-Ray;"Mar 02, 2018";"Broad Green Pictures"
 "Bad Times at the El Royale";"Crime, Drama, Horror, Mystery, Science Fiction, Thriller";140;"Drew Goddard";"Ultra HD Blu-ray";"Jan 03, 2019";
-"Bangkok Dangerous";"Action, Crime, Thriller";99;"Danny Pang, Oxide Pang Chun";Blu-Ray;"May 29, 2018";"Lions Gate"
+"Bangkok Dangerous";"Action, Crime, Thriller";99;"Oxide Pang Chun, Danny Pang";Blu-Ray;"May 29, 2018";"Lions Gate"
 "The Bank Job";"Action, Crime, Drama, Romance, Thriller";110;"Roger Donaldson";Blu-Ray;"Jan 15, 2018";
 "Barton Fink";"Comedy, Drama, Thriller";116;"Joel Coen, Ethan Coen";Blu-Ray;"Jan 15, 2018";
 "Battle For the Planet of the Apes";"Action, Drama, Science Fiction";86;"J. Lee Thompson";Blu-Ray;"Jun 20, 2018";
@@ -73,8 +73,8 @@ Beerfest;Comedy;110;"Jay Chandrasekhar";Blu-Ray;"Jun 03, 2018";"Warner Brothers 
 "Being There";"Comedy, Drama";130;"Hal Ashby";Blu-Ray;"Nov 30, 2018";Criterion
 "Beneath the Planet of the Apes";"Action, Adventure, Drama, Science Fiction";95;"Ted Post";Blu-Ray;"Jun 20, 2018";
 "The Best Little Whorehouse In Texas";"Comedy, Musical";114;"Colin Higgins";Blu-Ray;"Feb 25, 2018";"Universal Studios Home Entertainment"
-"Better Call Saul: Season 1";"Comedy, Crime, Drama";469;"Adam Bernstein";Blu-Ray;"Nov 07, 2018";"Sony Pictures"
-"Better Call Saul: Season 2";"Comedy, Crime, Drama";458;;Blu-Ray;"Nov 07, 2018";"Sony Pictures"
+"Better Call Saul: Season 1";"Comedy, Crime, Drama";469;"Vince Gilligan, Colin Bucksey, Nicole Kassell";Blu-Ray;"Nov 07, 2018";"Sony Pictures"
+"Better Call Saul: Season 2";"Comedy, Crime, Drama";458;"Vince Gilligan, Scott Winant, Colin Bucksey";Blu-Ray;"Nov 07, 2018";"Sony Pictures"
 "A Better Tomorrow";"Action, Crime, Foreign";90;"John Woo";Blu-Ray;"Jan 15, 2018";
 "Beverly Hills Chihuahua";"Adventure, Comedy, Family";91;"Raja Gosnell";Blu-Ray;"Jan 15, 2018";"Buena Vista"
 "Beverly Hills Chihuahua 2";"Children, Comedy, Family";84;"Alex Zamm";Blu-Ray;"Jan 15, 2018";"Walt Disney Home Video"
@@ -93,6 +93,7 @@ Blade;"Action, Adventure, Fantasy, Horror, Thriller";120;"Stephen Norrington";Bl
 "Blood Simple";"Crime, Drama, Mystery, Thriller";96;"Joel Coen, Ethan Coen";Blu-Ray;"Jan 15, 2018";"Criterion Collection"
 "The Blues Brothers";"Action, Adventure, Comedy, Crime, Music, Musical";148;"John Landis";Blu-Ray;"Jun 20, 2018";
 "Blues Brothers 2000";"Action, Comedy, Crime, Music, Musical";123;"John Landis";Blu-Ray;"Jun 20, 2018";
+"Bohemian Rhapsody";"Biography, Drama, Music";135;"Bryan Singer";"Ultra HD Blu-ray";"Feb 14, 2019";Fox
 Bolt;"Action, Adventure, Animation, Comedy, Family";89;"Chris Williams, Byron Howard";Blu-Ray;"Jan 15, 2018";"Buena Vista Home Entertainment"
 "Boogie Nights";Drama;155;"Paul Thomas Anderson";Blu-Ray;"Jan 15, 2018";
 "The Boondock Saints";"Action, Adventure, Crime, Fantasy, Thriller, Western";110;"Troy Duffy";Blu-Ray;"Jan 15, 2018";"20th Century Fox Home Entertainment"
@@ -113,28 +114,31 @@ Brüno;Comedy;81;"Larry Charles";Blu-Ray;"May 05, 2018";"Universal Studios"
 "Bulletproof Monk";"Action, Adventure, Comedy";99;"Paul Hunter";Blu-Ray;"Jan 15, 2018";MGM/UA
 Bullitt;"Action, Crime, Drama, Mystery, Thriller";113;"Peter Yates";Blu-Ray;"Jan 21, 2018";"Warner Home Video"
 "Burn After Reading";"Comedy, Crime";96;"Joel Coen, Ethan Coen";Blu-Ray;"Jan 15, 2018";
+"Butch Cassidy And The Sundance Kid";"Action, Adventure, Biography, Crime, Drama, Western";110;"George Roy Hill";"Blu-ray Disc";"Feb 27, 2019";"20th Century Fox"
 "The Campaign";Comedy;85;"Jay Roach";Blu-Ray;"Feb 25, 2018";"Warner Brothers"
 "The Cannonball Run";"Action, Adventure, Comedy";95;"Hal Needham";Blu-Ray;"Jan 15, 2018";"HBO Home Video"
 "Carlito's Way";"Action, Crime, Drama, Foreign";145;"Brian De Palma";Blu-Ray;"Mar 21, 2018";
 Cartels;"Action, Crime";99;"Keoni Waxman";Blu-Ray;"Aug 15, 2018";
 Casino;"Action, Biography, Crime, Drama, History";178;"Martin Scorsese";Blu-Ray;"Mar 21, 2018";
-"Chasing The Dragon";"Action, Crime, Foreign, History";128;"Jing Wong, Jason Kwan";Blu-Ray;"Apr 07, 2018";
+"Chasing The Dragon";"Action, Crime, Foreign, History";128;"Aman Chang, Wong Jing, Jason Kwan";Blu-Ray;"Apr 07, 2018";
 Chinatown;"Action, Crime, Drama, Mystery, Thriller";130;"Roman Polanski";Blu-Ray;"Jan 15, 2018";
 Christine;"Action, Drama, Horror, Thriller";110;"John Carpenter";Blu-Ray;"Jul 30, 2018";"Sony Pictures Home Entertainment"
 "The Chronicles Of Narnia: Prince Caspian";"Action, Adventure, Animation, Family, Fantasy";150;"Andrew Adamson";Blu-Ray;"May 04, 2018";"Walt Disney"
 "The Chronicles of Narnia: The Lion, The Witch and The Wardrobe";"Action, Adventure, Animation, Documentary, Family, Fantasy, Foreign, Music";150;"Andrew Adamson";Blu-Ray;"May 04, 2018";"Buena Vista Home Entertainment"
 "The Chronicles Of Narnia: The Voyage Of The Dawn Treader";"Action, Adventure, Animation, Family, Fantasy";115;"Michael Apted";Blu-Ray;"May 04, 2018";"20th Century Fox Home Entertainment"
-"Clear And Present Danger";"Action, Adventure, Crime, Drama, Foreign, Thriller";141;"Philip Noyce";"Ultra HD Blu-ray";"Aug 26, 2018";
+"Clash Of The Titans";"Action, Adventure, Fantasy";106;"Louis Leterrier";"Blu-ray Disc";"Feb 27, 2019";
+"Clash Of The Titans";"Action, Adventure, Family, Fantasy";118;"Desmond Davis";"Blu-ray Disc";"Feb 27, 2019";
+"Clear And Present Danger";"Action, Adventure, Crime, Drama, Foreign, Thriller";141;"Phillip Noyce";"Ultra HD Blu-ray";"Aug 26, 2018";
 "Close Encounters Of The Third Kind";"Adventure, Drama, Family, Music, Science Fiction";137;"Steven Spielberg";Blu-Ray;"Jan 15, 2018";"Columbia TriStar"
-"Cloudy With A Chance Of Meatballs";"Action, Animation, Children, Comedy, Family, Fantasy";90;"Chris Miller, Phil Lord";Blu-Ray;"Jan 15, 2018";"Sony Pictures Home Entertainment"
+"Cloudy With A Chance Of Meatballs";"Action, Animation, Children, Comedy, Family, Fantasy";90;"Christopher Miller, Phil Lord";Blu-Ray;"Jan 15, 2018";"Sony Pictures Home Entertainment"
 "Cloudy with a Chance of Meatballs 2";"Animation, Comedy, Family";95;"Cody Cameron, Kris Pearn";Blu-Ray;"Jan 19, 2018";"Sony Pictures Home Entertainment"
 Cloverfield;"Action, Science Fiction, Thriller";85;"Matt Reeves";Blu-Ray;"Feb 08, 2018";"Warner Brothers"
 Coco;"Adventure, Animation, Comedy, Family, Fantasy";105;"Lee Unkrich, Adrian Molina";"Ultra HD Blu-ray";"May 07, 2018";"Buena Vista Home Entertainment"
-"Cold War II";"Action, Crime, Drama, Foreign";110;"Sunny Luk Kim-Ching, Longmond Leung Lok-Man";Blu-Ray;"Apr 07, 2018";"Well Go USA"
+"Cold War II";"Action, Crime, Drama, Foreign";110;"Lok Man Leung, Kim-Ching Luk";Blu-Ray;"Apr 07, 2018";"Well Go USA"
 Collateral;"Action, Crime, Drama, Thriller";120;"Michael Mann";Blu-Ray;"Apr 29, 2018";"Warner Brothers"
 Commando;"Action, Adventure, Thriller";90;"Mark L. Lester";Blu-Ray;"Jan 15, 2018";"20th Century Fox Home Entertainment"
 "The Commuter";"Action, Crime, Drama, Mystery, Thriller";104;"Jaume Collet-Serra";Blu-Ray;"Apr 29, 2018";"Lions Gate"
-"The Concorde: Airport '79";"Action, Adventure, Drama, Thriller";123;"David Lowell Rich, David Lowell Rich, David Rich";Blu-Ray;"Jun 20, 2018";
+"The Concorde: Airport '79";"Action, Adventure, Drama, Thriller";123;"David Lowell Rich";Blu-Ray;"Jun 20, 2018";
 "Conquest of the Planet of the Apes";"Action, Science Fiction";88;"J. Lee Thompson";Blu-Ray;"Jun 20, 2018";
 Contact;"Comedy, Drama, Foreign, Mystery, Romance, Science Fiction";153;"Robert Zemeckis";Blu-Ray;"Apr 29, 2018";"Warner Home Video"
 Contagion;"Drama, Science Fiction, Thriller";106;"Steven Soderbergh";Blu-Ray;"Jul 25, 2018";"Warner Home Video"
@@ -145,15 +149,15 @@ Coraline;"Animation, Family, Fantasy";100;"Henry Selick";Blu-Ray;"Jan 15, 2018";
 Crank;"Action, Crime, Drama, Thriller";94;"Mark Neveldine, Brian Taylor";Blu-Ray;"Jul 25, 2018";"Lions Gate"
 "Crank 2: High Voltage";"Action, Crime, Thriller";92;"Mark Neveldine, Brian Taylor";Blu-Ray;"Jul 25, 2018";"Lion's Gate Home Entertainment"
 "Crazy Heart";"Drama, Foreign, Music, Romance";112;"Scott Cooper";Blu-Ray;"Oct 07, 2018";
-"Crazy Rich Asians";"Comedy, Drama, Romance";121;"Jon M. Chu";"Ultra HD Blu-ray";"Nov 20, 2018";
+"Crazy Rich Asians";"Comedy, Drama, Romance";121;"Jon Chu";"Ultra HD Blu-ray";"Nov 20, 2018";
 "Cries And Whispers";"Drama, Foreign, Romance";91;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 Criminal;"Action, Crime, Drama, Mystery, Science Fiction, Thriller";113;"Ariel Vromen";"Ultra HD Blu-ray";"Aug 15, 2018";"Lion's Gate Home Entertainment"
 "The Crossing";"Drama, History";129;"John Woo";Blu-Ray;"Jan 23, 2018";
 "The Crossing 2";"Action, Drama, Romance";131;"John Woo";Blu-Ray;"Jan 23, 2018";
-"The Dark Crystal";"Adventure, Family, Fantasy";93;"Jim Henson, Frank Oz, Gary Kurtz";"Ultra HD Blu-ray";"Mar 07, 2018";"Sony Pictures"
+"The Dark Crystal";"Adventure, Family, Fantasy";93;"Jim Henson, Frank Oz";"Ultra HD Blu-ray";"Mar 07, 2018";"Sony Pictures"
 Darkman;"Crime, Horror, Science Fiction, Thriller";96;"Sam Raimi";Blu-Ray;"Jan 15, 2018";
 "David Gilmour: In Concert";Music;97;"David Mallet";Blu-Ray;"Jan 15, 2018";
-"David Gilmour: Live At Pompeii";Music;150;"Gavin Elder";Blu-Ray;"Jan 15, 2018";
+"David Gilmour: Live At Pompeii";Music;150;;Blu-Ray;"Jan 15, 2018";
 "David Gilmour: Remember That Night: Live at the Royal Albert Hall";"Music, Musical";313;"David Mallet";Blu-Ray;"Jan 15, 2018";"Sony Music"
 Deadpool;"Action, Adventure, Comedy, Fantasy, Science Fiction";108;"Tim Miller";"Ultra HD Blu-ray";"Jan 15, 2018";"20th Century Fox Home Entertainment"
 "Death Race";"Action, Adventure, Science Fiction, Sports, Thriller";111;"Paul W.S. Anderson";Blu-Ray;"Jun 20, 2018";
@@ -177,12 +181,12 @@ Desperado;"Action, Horror, Romance, Thriller, Western";106;"Robert Rodriguez";Bl
 "Django Unchained";"Action, Adventure, Drama, Western";165;"Quentin Tarantino";Blu-Ray;"Jan 15, 2018";"Anchor Bay Entertainment"
 "Djävulens öga";"Comedy, Drama, Fantasy, Science Fiction";85;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 Dogma;"Adventure, Comedy, Fantasy";130;"Kevin Smith";Blu-Ray;"Jan 15, 2018";
-"Downton Abbey: Season 1";"Comedy, Drama, Foreign, History, Romance";336;"Ben Bolt";Blu-Ray;"Nov 27, 2018";
-"Downton Abbey: Season 3";"Comedy, Drama, History, Romance";540;"Brian Percival";Blu-Ray;"Nov 27, 2018";
-"Downton Abbey: Season 4";"Comedy, Drama, Foreign, History, Romance";600;"David Evans";Blu-Ray;"Nov 27, 2018";
-"Downton Abbey: Season 5";"Comedy, Drama, Family, Foreign, History, Romance";540;"Catherine Morshead";Blu-Ray;"Nov 27, 2018";
-"Downton Abbey: Season 6";"Drama, Family, History, Romance";600;"Ben Bolt";Blu-Ray;"Nov 27, 2018";
-"Downton Abbey: Season 2";"Comedy, Drama, Foreign, History, Romance";540;"Ashley Pearce";Blu-Ray;"Nov 27, 2018";
+"Downton Abbey: Season 1";"Comedy, Drama, Foreign, History, Romance";336;"Ben Bolt, Brian Percival, Brian Kelly";Blu-Ray;"Nov 27, 2018";
+"Downton Abbey: Season 3";"Comedy, Drama, History, Romance";540;"Brian Percival, David Evans, Andy Goddard";Blu-Ray;"Nov 27, 2018";
+"Downton Abbey: Season 4";"Comedy, Drama, Foreign, History, Romance";600;"Catherine Morshead, David Evans, Jon East";Blu-Ray;"Nov 27, 2018";
+"Downton Abbey: Season 5";"Comedy, Drama, Family, Foreign, History, Romance";540;"Catherine Morshead, Michael Engler, Minkie Spiro";Blu-Ray;"Nov 27, 2018";
+"Downton Abbey: Season 6";"Drama, Family, History, Romance";600;"Michael Engler, David Evans, Minkie Spiro";Blu-Ray;"Nov 27, 2018";
+"Downton Abbey: Season 2";"Comedy, Drama, Foreign, History, Romance";540;"Brian Percival, Brian Kelly, Ashley Pearce";Blu-Ray;"Nov 27, 2018";
 "Dr. Strangelove";"Comedy, Fantasy, Satire, War";90;"Stanley Kubrick";Blu-Ray;"Jun 03, 2018";"Columbia TriStar"
 "Dracula Untold";"Action, Drama, Fantasy, Horror, War";93;"Gary Shore";Blu-Ray;"Apr 28, 2018";"Universal Studios Home Entertainment"
 "Due Date";Comedy;100;"Todd Phillips";Blu-Ray;"Jan 15, 2018";
@@ -200,13 +204,13 @@ Duplicity;"Action, Crime, Drama, Thriller";125;"Tony Gilroy";Blu-Ray;"Feb 25, 20
 "Escape To Witch Mountain";"Adventure, Family, Fantasy";97;"John Hough";Blu-Ray;"Nov 07, 2018";"Buena Vista Home Entertainment"
 "Every Which Way But Loose";"Action, Comedy";119;"James Fargo";Blu-Ray;"Jun 20, 2018";
 "Eyes Wide Shut";"Adult, Drama, Mystery, Thriller";159;"Stanley Kubrick";Blu-Ray;"Jun 17, 2018";"Warner Brothers"
-"Family Guy: Something, Something, Something Dark Side ";"Action, Animation, Comedy";44;"Dominic Polcino";Blu-Ray;"Jan 15, 2018";Fox
-"Fanny and Alexander";Drama;312;;Blu-Ray;"Nov 20, 2018";
+"Family Guy: Something, Something, Something Dark Side ";"Action, Animation, Comedy";44;"Peter Shin, Dominic Polcino, James Purdum";Blu-Ray;"Jan 15, 2018";Fox
+"Fanny and Alexander";Drama;312;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 "Fanny och Alexander";"Drama, Family, Fantasy, Foreign, Mystery";188;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
-"Fantastic Four";"Action, Adventure, Exercise, Fantasy, Romance, Science Fiction";100;"Matthew Jensen, Josh Trank";Blu-Ray;"Apr 28, 2018";Fox
+"Fantastic Four";"Action, Adventure, Exercise, Fantasy, Romance, Science Fiction";100;"Josh Trank";Blu-Ray;"Apr 28, 2018";Fox
 "Fantastic Four";"Action, Adventure, Exercise, Fantasy, Romance, Science Fiction";106;"Tim Story";Blu-Ray;"Apr 28, 2018";"20th Century Fox Home Entertainment"
 "Fantastic Four: Rise of the Silver Surfer";"Action, Adventure, Fantasy, Science Fiction, Thriller";92;"Tim Story";Blu-Ray;"Apr 28, 2018";"20th Century Fox Home Entertainment"
-Fargo;"Comedy, Crime, Drama, Thriller";98;"Joel Coen";Blu-Ray;"Jan 15, 2018";
+Fargo;"Comedy, Crime, Drama, Thriller";98;"Joel Coen, Ethan Coen";Blu-Ray;"Jan 15, 2018";
 "Fårö dokument";Documentary;58;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 "Fårödokumentet 1979";Documentary;103;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 "Fast & Furious 6";"Action, Crime, Thriller";130;"Justin Lin";Blu-Ray;"May 15, 2018";
@@ -220,7 +224,7 @@ Fargo;"Comedy, Crime, Drama, Thriller";98;"Joel Coen";Blu-Ray;"Jan 15, 2018";
 Firefox;"Action, Adventure, Science Fiction, Thriller";136;"Clint Eastwood";Blu-Ray;"Jun 20, 2018";
 "First Blood";"Action, Adventure, Thriller";96;"Ted Kotcheff";Blu-Ray;"Mar 07, 2018";"Lion's Gate Home Entertainment"
 "First Knight";"Action, Adventure, Drama, Romance, Thriller";133;"Jerry Zucker";Blu-Ray;"Apr 07, 2018";"Columbia TriStar Home Video"
-"A Fistful Of Dollars";"Action, Western";101;"Monte Hellman, Sergio Leone";Blu-Ray;"Jan 15, 2018";"MGM Home Entertainment"
+"A Fistful Of Dollars";"Action, Western";101;"Sergio Leone";Blu-Ray;"Jan 15, 2018";"MGM Home Entertainment"
 "Flags of Our Fathers";"Action, Documentary, Drama, History, War";125;"Clint Eastwood";Blu-Ray;"Jun 20, 2018";
 "Flight Of The Navigator";"Adventure, Family, Science Fiction";90;"Randal Kleiser";Blu-Ray;"Nov 15, 2018";"TriStar Pictures"
 "The Fly";"Drama, Horror, Romance, Science Fiction, Thriller";95;"David Cronenberg";Blu-Ray;"Apr 27, 2018";"20th Century Fox Home Entertainment"
@@ -239,13 +243,13 @@ Frozen;"Adventure, Animation, Children, Comedy, Family, Fantasy, Musical";102;"C
 "Funny Farm";Comedy;102;"George Roy Hill";Blu-Ray;"Nov 11, 2018";
 "Furious 7";"Action, Crime, Thriller";137;"James Wan";Blu-Ray;"May 15, 2018";
 Fury;"Action, Drama, War";129;"David Ayer";Blu-Ray;"Apr 28, 2018";"Sony Pictures Home Entertainment"
-"Futurama: Bender's Game";Animation;88;"Dwayne Carey-Hill,  Dwayne Carey-Hill";Blu-Ray;"Jan 15, 2018";
+"Futurama: Bender's Game";Animation;88;"Dwayne Carey-Hill";Blu-Ray;"Jan 15, 2018";
 "Futurama: Into The Wild Green Yonder";"Animation, Comedy, Science Fiction";88;"Peter Avanzino";Blu-Ray;"Jan 15, 2018";
 G-Force;"Action, Adventure, Animation, Comedy, Family, Fantasy";88;"Hoyt Yeatman";Blu-Ray;"Jan 15, 2018";"Walt Disney Home Video"
 Gambit;"Action, Adventure, Comedy, Crime, Drama";108;"Michael Hoffman";Blu-Ray;"Jan 15, 2018";
 "The Gambler";"Crime, Drama, Thriller";111;"Rupert Wyatt";Blu-Ray;"Apr 28, 2018";"Paramount Pictures Home Entertainment"
 "Gangs Of New York";"Action, Comedy, Crime, Drama, Romance, Thriller";167;"Martin Scorsese";Blu-Ray;"Jan 21, 2018";"Miramax Home Video"
-Gator;"Action, Adventure, Crime, Drama, Thriller";116;"Burt Reynolds, James Best";Blu-Ray;"Feb 25, 2018";"Kino Lorber Studio Classics"
+Gator;"Action, Adventure, Crime, Drama, Thriller";116;"Burt Reynolds";Blu-Ray;"Feb 25, 2018";"Kino Lorber Studio Classics"
 "The Gauntlet";"Action, Adventure, Crime, Thriller";111;"Clint Eastwood";Blu-Ray;"Jun 20, 2018";
 "Geri's Game";"Animation, Comedy, Family";4;"Jan Pinkava";Blu-Ray;"Jun 20, 2018";
 "The Ghost And Mr. Chicken";"Comedy, Family, Romance";90;"Alan Rafkin";Blu-Ray;"Nov 07, 2018";
@@ -266,10 +270,10 @@ Grease;"Comedy, Musical, Romance";106;"Randal Kleiser";Blu-Ray;"Jan 15, 2018";"P
 "The Great Wall";"Action, Adventure, Comedy, Fantasy, Science Fiction, Thriller";104;"Yimou Zhang";"Ultra HD Blu-ray";"Feb 02, 2018";
 "The Greatest Showman";"Drama, Music, Musical";105;"Michael Gracey";Blu-Ray;"Apr 29, 2018";
 "The Green Hornet";"Action, Comedy, Crime, Thriller";118;"Michel Gondry";Blu-Ray;"Apr 29, 2018";"Sony Pictures"
-"Grimm: The Complete Collection";"Action, Adventure, Comedy, Crime, Drama, Fantasy, Horror, Mystery, Science Fiction, Suspense";5060;"Peter Werner, Norberto Barba, Terrence O'Hara";Blu-Ray;"Dec 27, 2018";
+"Grimm: The Complete Collection";"Action, Adventure, Comedy, Crime, Drama, Fantasy, Horror, Mystery, Science Fiction, Suspense";5060;"Peter Werner, Eric Laneuville, Aaron Lipstadt";Blu-Ray;"Dec 27, 2018";
 "Groundhog Day";"Comedy, Fantasy, Romance";101;"Harold Ramis";Blu-Ray;"Jan 15, 2018";
 "Guardians of the Galaxy 2";"Action, Adventure, Comedy, Science Fiction";137;"James Gunn";"Ultra HD Blu-ray";"Feb 02, 2018";
-"The Guns Of Navarone";"Action, Adventure, Drama, War";157;"J. Lee Thompson, Alexander Mackendrick";Blu-Ray;"May 15, 2018";"Sony Pictures"
+"The Guns Of Navarone";"Action, Adventure, Drama, War";157;"J. Lee Thompson";Blu-Ray;"May 15, 2018";"Sony Pictures"
 "Gycklarnas afton";"Drama, Foreign";93;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 "Hacksaw Ridge";"Biography, Drama, History, War";139;"Mel Gibson";"Ultra HD Blu-ray";"Feb 02, 2018";
 "Hail, Caesar!";"Comedy, Drama, Mystery";106;"Joel Coen, Ethan Coen";Blu-Ray;"Jan 15, 2018";
@@ -306,16 +310,16 @@ Hop;"Animation, Comedy, Family";95;"Tim Hill";Blu-Ray;"Jan 15, 2018";"Universal 
 "Hotel Transylvania 2";"Animation, Children, Comedy, Family, Fantasy";89;"Genndy Tartakovsky";Blu-Ray;"Jun 20, 2018";
 "Hotel Transylvania 3";"Animation, Comedy, Family, Fantasy";97;"Genndy Tartakovsky";"Ultra HD Blu-ray";"Oct 09, 2018";"Sony Pictures"
 "Hour Of The Wolf";"Drama, Foreign, Horror, Thriller";90;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
-"House M.D.: Season 1";"Comedy, Drama, Mystery, Thriller";972;"Daniel Attias, Jace Alexander, Fred Gerber";Blu-Ray;"Jun 20, 2018";
-"House M.D.: Season 2";"Comedy, Drama, Mystery, Thriller";1044;"Daniel Attias, Jace Alexander";Blu-Ray;"Jun 20, 2018";
-"House M.D.: Season 3";"Comedy, Drama, Mystery, Thriller";1049;"Daniel Attias, Deran Sarafian, Peter O'Fallon";Blu-Ray;"Jun 20, 2018";
-"House M.D.: Season 4";"Drama, Music, Mystery, Thriller";1029;"Deran Sarafian";Blu-Ray;"Jun 20, 2018";
-"House M.D.: Season 5";"Comedy, Drama, Mystery, Thriller";1060;"Deran Sarafian";Blu-Ray;"Jun 20, 2018";
-"House M.D.: Season 6";"Comedy, Drama, Mystery, Thriller";969;"Deran Sarafian, Greg Yaitanes, David Straiton";Blu-Ray;"Jun 20, 2018";
-"House M.D.: Season 7";"Comedy, Drama, Mystery, Thriller";1007;"Greg Yaitanes";Blu-Ray;"Jun 20, 2018";
-"House M.D.: Season 8";"Comedy, Drama, Mystery, Thriller";965;"Greg Yaitanes";Blu-Ray;"Jun 20, 2018";
+"House M.D.: Season 1";"Comedy, Drama, Mystery, Thriller";972;"Daniel Sackheim, Bryan Singer, Paris Barclay";Blu-Ray;"Jun 20, 2018";
+"House M.D.: Season 2";"Comedy, Drama, Mystery, Thriller";1044;"Daniel Sackheim, Daniel Attias, Deran Sarafian";Blu-Ray;"Jun 20, 2018";
+"House M.D.: Season 3";"Comedy, Drama, Mystery, Thriller";1049;"Daniel Sackheim, Daniel Attias, Deran Sarafian";Blu-Ray;"Jun 20, 2018";
+"House M.D.: Season 4";"Drama, Music, Mystery, Thriller";1029;"Deran Sarafian, Greg Yaitanes, Lesli Linka Glatter";Blu-Ray;"Jun 20, 2018";
+"House M.D.: Season 5";"Comedy, Drama, Mystery, Thriller";1060;"Daniel Attias, Deran Sarafian, Greg Yaitanes";Blu-Ray;"Jun 20, 2018";
+"House M.D.: Season 6";"Comedy, Drama, Mystery, Thriller";969;"Greg Yaitanes, Nick Gomez, Lesli Linka Glatter";Blu-Ray;"Jun 20, 2018";
+"House M.D.: Season 7";"Comedy, Drama, Mystery, Thriller";1007;"Daniel Attias, Greg Yaitanes, Tucker Gates";Blu-Ray;"Jun 20, 2018";
+"House M.D.: Season 8";"Comedy, Drama, Mystery, Thriller";965;"Daniel Attias, Kate Woods, Greg Yaitanes";Blu-Ray;"Jun 20, 2018";
 "The House with a Clock in Its Walls";"Family, Fantasy, Horror, Mystery, Science Fiction, Thriller";105;"Eli Roth";"Ultra HD Blu-ray";"Dec 19, 2018";
-"How The West Was Won";"Action, Adventure, Drama, Music, War, Western";162;"Henry Hathaway, John Ford";Blu-Ray;"May 05, 2018";
+"How The West Was Won";"Action, Adventure, Drama, Music, War, Western";162;"Richard Thorpe, Henry Hathaway, George Marshall";Blu-Ray;"May 05, 2018";
 "How To Frame A Figg";"Comedy, Family";103;"Alan Rafkin";Blu-Ray;"Nov 07, 2018";
 "How To Train Your Dragon ";"Action, Adventure, Animation, Comedy, Family";98;"Dean DeBlois, Chris Sanders";Blu-Ray;"Jan 15, 2018";"DreamWorks Home Entertainment"
 "The Hudsucker Proxy";"Comedy, Fantasy, Romance";111;"Joel Coen, Ethan Coen";Blu-Ray;"Jan 15, 2018";
@@ -342,7 +346,7 @@ Invictus;"Biography, Drama, History, Sports";133;"Clint Eastwood";Blu-Ray;"Jun 2
 "Ip Man 3";"Action, Biography, Drama, Foreign, History, Martial Arts";105;"Wilson Yip";Blu-Ray;"Jun 20, 2018";
 "Ip Man: The Final Fight";"Action, Biography, Drama, Foreign";101;"Herman Yau";Blu-Ray;"Jan 19, 2018";"Well Go USA"
 "Iron Maiden: En Vivo!";"Documentary, Music";222;"Andy Matthews";Blu-Ray;"Feb 11, 2018";"EMI Records"
-"Iron Maiden: Flight 666";Music;112;"Sam Dunn, Scot McFadyen	";Blu-Ray;"Jan 15, 2018";
+"Iron Maiden: Flight 666";Music;112;"Scot McFadyen, Sam Dunn";Blu-Ray;"Jan 15, 2018";
 "Iron Man";"Action, Adventure, Fantasy, Science Fiction, Thriller";125;"Jon Favreau";Blu-Ray;"Jan 15, 2018";"Paramount Home Entertainment"
 "Iron Man";"Action, Adventure, Fantasy, Science Fiction, Thriller";125;"Jon Favreau";"Ultra HD Blu-ray";"Feb 02, 2018";
 "Iron Man 2";"Action, Adventure, Science Fiction";124;"Jon Favreau";Blu-Ray;"Jan 15, 2018";"Paramount Home Entertainment"
@@ -351,8 +355,8 @@ Invictus;"Biography, Drama, History, Sports";133;"Clint Eastwood";Blu-Ray;"Jun 2
 "Isle of Dogs";"Adventure, Animation, Comedy";101;"Wes Anderson";Blu-Ray;"Jul 22, 2018";
 "J. Edgar";"Biography, Crime, Drama";137;"Clint Eastwood";Blu-Ray;"Jun 20, 2018";
 Jabberwocky;"Adventure, Comedy, Fantasy";105;"Terry Gilliam";Blu-Ray;"Jan 25, 2018";Criterion
-"Jack Ryan: Shadow Recruit";"Action, Drama, Thriller, Western";105;"Kenneth Branagh, Lorenzo di Bonaventura, David Barron";"Ultra HD Blu-ray";"Aug 26, 2018";
-"Jack Ryan: Shadow Recruit";"Action, Drama, Thriller, Western";105;"Kenneth Branagh, Lorenzo di Bonaventura, David Barron";Blu-Ray;"Apr 07, 2018";"Paramount Pictures Home Entertainment"
+"Jack Ryan: Shadow Recruit";"Action, Drama, Thriller, Western";105;"Kenneth Branagh";"Ultra HD Blu-ray";"Aug 26, 2018";
+"Jack Ryan: Shadow Recruit";"Action, Drama, Thriller, Western";105;"Kenneth Branagh";Blu-Ray;"Apr 07, 2018";"Paramount Pictures Home Entertainment"
 "Jack-Jack Attack";"Adventure, Animation, Comedy, Family";5;"Brad Bird";Blu-Ray;"Jun 20, 2018";
 "Jackass 3D";"Action, Comedy";94;"Jeff Tremaine";Blu-Ray;"Apr 07, 2018";Paramount
 "Jason Bourne";"Action, Thriller";123;"Paul Greengrass";"Ultra HD Blu-ray";"Jan 15, 2018";Universal
@@ -360,9 +364,9 @@ Jabberwocky;"Adventure, Comedy, Fantasy";105;"Terry Gilliam";Blu-Ray;"Jan 25, 20
 "John Wick";"Action, Crime, Thriller";143;"Chad Stahelski, David Leitch";"Ultra HD Blu-ray";"Jan 15, 2018";"Lion's Gate Home Entertainment"
 "John Wick: Chapter Two";"Action, Crime, Thriller";122;"Chad Stahelski";"Ultra HD Blu-ray";"Jan 15, 2018";"Lion's Gate Home Entertainment"
 Jumper;"Action, Adventure, Science Fiction, Special Interest, Thriller";88;"Doug Liman";Blu-Ray;"Jan 30, 2018";
-"Jurassic World: Fallen Kingdom";"Action, Adventure, Drama, Science Fiction, Thriller";124;"J.A. Bayona";"Ultra HD Blu-ray";"Sep 19, 2018";
+"Jurassic World: Fallen Kingdom";"Action, Adventure, Drama, Science Fiction, Thriller";124;"Juan Antonio Bayona";"Ultra HD Blu-ray";"Sep 19, 2018";
 "Kelly's Heroes";"Action, Adventure, Comedy, War";144;"Brian G. Hutton";Blu-Ray;"Jun 20, 2018";
-Keoma;"Action, Drama, Western";97;"Enzo G. Castellari, Enzo G. Castellari";Blu-Ray;"Jun 20, 2018";
+Keoma;"Action, Drama, Western";97;"Enzo G. Castellari";Blu-Ray;"Jun 20, 2018";
 "Kick-Ass ";"Action, Comedy, Crime";117;"Matthew Vaughn";Blu-Ray;"Jan 15, 2018";"Lions Gate"
 "The Killer";"Action, Foreign, Horror, Thriller";111;"John Woo";Blu-Ray;"Jan 15, 2018";
 "Killer Elite";"Action, Crime, Thriller";116;"Gary McKendry";Blu-Ray;"May 29, 2018";"Universal Studios Home Entertainment"
@@ -384,9 +388,9 @@ Krull;"Action, Adventure, Fantasy, Science Fiction";121;"Peter Yates";Blu-Ray;"F
 "The Last Gun";"Action, Adventure, Foreign, Western";98;"Sergio Bergonzelli";Blu-Ray;"Jun 20, 2018";
 "The Legend Is Born: Ip Man";"Action, Biography, Drama, Foreign, History";100;"Herman Yau";Blu-Ray;"Jan 19, 2018";FUNimation
 "The Legend of Korra: Book One: Air";"Action, Adventure, Animation, Children, Drama, Family, Fantasy, Mystery, Suspense";289;"Joaquim Dos Santos, Ki Hyun Ryu";Blu-Ray;"Jun 20, 2018";
-"The Legend of Korra: Book Two: Spirits";"Action, Adventure, Animation, Children, Comedy, Drama, Family, Fantasy, Mystery, Science Fiction, Suspense";326;"Colin Heck";Blu-Ray;"Jun 20, 2018";
-"The Legend of Korra: Book Three: Change";"Action, Adventure, Animation, Children, Comedy, Drama, Family, Fantasy, Mystery, Science Fiction, Suspense";294;"Joaquim Dos Santos, Ki Hyun Ryu, Melchior Zwyer";Blu-Ray;"Jun 20, 2018";
-"The Legend of Korra: Book Four: Balance";"Action, Adventure, Animation, Children, Comedy, Drama, Family, Fantasy, Mystery, Science Fiction, Suspense";294;"Joaquim Dos Santos, Ki Hyun Ryu, Colin Heck";Blu-Ray;"Jun 20, 2018";
+"The Legend of Korra: Book Two: Spirits";"Action, Adventure, Animation, Children, Comedy, Drama, Family, Fantasy, Mystery, Science Fiction, Suspense";326;"Ian Graham, Colin Heck";Blu-Ray;"Jun 20, 2018";
+"The Legend of Korra: Book Three: Change";"Action, Adventure, Animation, Children, Comedy, Drama, Family, Fantasy, Mystery, Science Fiction, Suspense";294;"Ian Graham, Colin Heck, Melchior Zwyer";Blu-Ray;"Jun 20, 2018";
+"The Legend of Korra: Book Four: Balance";"Action, Adventure, Animation, Children, Comedy, Drama, Family, Fantasy, Mystery, Science Fiction, Suspense";294;"Michael Dante Dimartino, Ian Graham, Colin Heck";Blu-Ray;"Jun 20, 2018";
 "Letters from Iwo Jima";"Drama, History, War";141;"Clint Eastwood";Blu-Ray;"Jun 20, 2018";
 "Life Of Brian";Comedy;93;"Terry Jones";Blu-Ray;"Jan 15, 2018";
 Lifted;"Animation, Comedy, Family";5;"Gary Rydstrom";Blu-Ray;"Jun 20, 2018";
@@ -424,7 +428,7 @@ Mayhem;"Action, Comedy, Horror";86;"Joe Lynch";"Ultra HD Blu-ray";"Apr 28, 2018"
 "Men In Black III";"Action, Comedy, Science Fiction";106;"Barry Sonnenfeld";"Ultra HD Blu-ray";"Jun 20, 2018";
 "Men In Black III";"Action, Comedy, Science Fiction";106;"Barry Sonnenfeld";"Ultra HD Blu-ray";"Feb 02, 2018";
 "The Mercenary: Absolution";"Action, Adventure, Crime, Thriller";96;"Keoni Waxman";Blu-Ray;"Jun 18, 2018";"Lions Gate"
-"Mike's New Car";"Animation, Comedy, Family";4;"Pete Docter, Roger Gould";Blu-Ray;"Jun 20, 2018";
+"Mike's New Car";"Animation, Comedy, Family";4;"Peter Docter, Roger Gould";Blu-Ray;"Jun 20, 2018";
 "Mile 22";"Action, Adventure, Crime, Thriller";90;"Peter Berg";Blu-Ray;"Nov 16, 2018";"Universal Studios Home Entertainment"
 Milk;"Biography, Drama";128;"Gus Van Sant";Blu-Ray;"Feb 25, 2018";"Universal Studios"
 "Miller's Crossing";"Comedy, Crime, Drama, Thriller";115;"Joel Coen, Ethan Coen";Blu-Ray;"Jan 15, 2018";
@@ -438,7 +442,7 @@ Milk;"Biography, Drama";128;"Gus Van Sant";Blu-Ray;"Feb 25, 2018";"Universal Stu
 "The Moguls";Comedy;96;"Michael Traeger";Blu-Ray;"Jun 17, 2018";"First Look Pictures"
 "Money For Nothing";Comedy;100;"Ramon Menendez";Blu-Ray;"Jun 17, 2018";"Mill Creek Entertainment"
 "Monsters Vs. Aliens";"Action, Adventure, Animation, Comedy, Science Fiction";94;"Conrad Vernon, Rob Letterman";Blu-Ray;"Jan 15, 2018";"Paramount Home Entertainment"
-"Monsters, Inc.";"Adventure, Animation, Comedy, Family, Fantasy";88;"Lee Unkrich, David Silverman, Pete Docter";Blu-Ray;"Jan 15, 2018";
+"Monsters, Inc.";"Adventure, Animation, Comedy, Family, Fantasy";88;"Lee Unkrich, Peter Docter, David Silverman";Blu-Ray;"Jan 15, 2018";
 "Mumford & Sons: The Road To Red Rocks";Music;81;;Blu-Ray;"Mar 07, 2018";Glassnote
 "The Mummy";"Action, Adventure, Fantasy, Horror, Mystery, Science Fiction, Thriller";110;"Alex Kurtzman";"Ultra HD Blu-ray";"May 08, 2018";
 "My Cousin Vinny";"Comedy, Crime";120;"Jonathan Lynn";Blu-Ray;"Feb 12, 2018";Fox
@@ -457,6 +461,7 @@ Milk;"Biography, Drama";128;"Gus Van Sant";Blu-Ray;"Feb 25, 2018";"Universal Stu
 "Ocean's Eight";"Action, Adventure, Comedy, Crime, Thriller";110;"Gary Ross";"Ultra HD Blu-ray";"Sep 14, 2018";"Warner Brothers"
 "Olympus Has Fallen";"Action, Crime, Thriller";119;"Antoine Fuqua";Blu-Ray;"Jun 20, 2018";
 "Once A Thief";"Action, Comedy, Crime, Drama, Foreign, Thriller";103;"John Woo";Blu-Ray;"Jan 15, 2018";
+"Once Upon A Time In America";"Action, Comedy, Crime, Drama";229;"Sergio Leone";"Blu-ray Disc";"Feb 27, 2019";Fox
 "Once Upon a Time in the West";"Drama, Foreign, Western";165;"Sergio Leone";Blu-Ray;"Jan 15, 2018";
 "One Man Band";"Animation, Comedy, Family, Music";4;"Mark Andrews, Andrew Jimenez";Blu-Ray;"Jun 20, 2018";
 "Open Season 2";"Adventure, Animation, Comedy";74;"Matthew O'Callaghan, Todd Wilderman";Blu-Ray;"Feb 23, 2018";"Sony Pictures"
@@ -475,7 +480,7 @@ Persona;"Drama, Foreign, Mystery";85;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 "Peter Rabbit";"Action, Adventure, Animation, Family";95;"Will Gluck";"Ultra HD Blu-ray";"May 05, 2018";"Sony Pictures"
 "Pirates Of The Caribbean: At World's End";"Action, Adventure, Comedy, Fantasy";169;"Gore Verbinski";Blu-Ray;"Apr 11, 2018";"Walt Disney"
 "Pirates Of The Caribbean: Dead Man's Chest";"Action, Adventure, Comedy, Drama, Family, Fantasy";150;"Gore Verbinski";Blu-Ray;"Apr 10, 2018";"Walt Disney"
-"Pirates of the Caribbean: Dead Men Tell No Tales";"Action, Adventure, Comedy, Fantasy";124;"Espen Sandberg, Joachim Rønning";"Ultra HD Blu-ray";"Apr 10, 2018";"Buena Vista"
+"Pirates of the Caribbean: Dead Men Tell No Tales";"Action, Adventure, Comedy, Fantasy";124;"Joachim Roenning, Espen Sandberg";"Ultra HD Blu-ray";"Apr 10, 2018";"Buena Vista"
 "Pirates Of The Caribbean: On Stranger Tides";"Action, Adventure, Fantasy";136;"Rob Marshall";Blu-Ray;"Apr 10, 2018";Disney
 "Pirates Of The Caribbean: The Curse Of The Black Pearl";"Action, Adventure, Comedy, Drama, Fantasy";143;"Gore Verbinski";Blu-Ray;"Apr 11, 2018";Disney
 Planes;"Action, Adventure, Animation, Comedy, Family";91;"Klay Hall";Blu-Ray;"Aug 15, 2018";Disney
@@ -492,16 +497,17 @@ Poltergeist;"Fantasy, Horror, Thriller";114;"Tobe Hooper";Blu-Ray;"May 07, 2018"
 Predator;"Action, Animation, Horror, Science Fiction, Thriller";107;"John McTiernan";Blu-Ray;"Jan 15, 2018";"20th Century Fox"
 Predators;"Action, Adventure, Horror, Science Fiction";107;"Nimrod Antal";Blu-Ray;"Jan 15, 2018";"20th Century Fox Home Entertainment"
 "Pride And Glory";"Crime, Drama";125;"Gavin O'Connor";Blu-Ray;"Mar 07, 2018";"New Line Home Video"
-Priest;"Action, Fantasy, Horror, Science Fiction, Thriller";87;"Scott Charles Stewart";Blu-Ray;"Mar 20, 2018";"Sony Pictures Home Entertainment"
+Priest;"Action, Fantasy, Horror, Science Fiction, Thriller";87;"Scott Stewart";Blu-Ray;"Mar 20, 2018";"Sony Pictures Home Entertainment"
 "The Princess And The Frog";"Animation, Family, Musical";97;"Ron Clements, John Musker";Blu-Ray;"Jan 15, 2018";"Walt Disney Home Video"
 "The Producers";"Comedy, Drama, Music, Musical";88;"Mel Brooks";Blu-Ray;"Jan 15, 2018";"Shout! Factory"
 Prometheus;"Action, Adventure, Horror, Mystery, Science Fiction, Thriller";123;"Ridley Scott";Blu-Ray;"Jan 15, 2018";"20th Century Fox Home Entertainment"
 "Public Enemies";"Action, Biography, Crime, Drama, History, Romance";140;"Michael Mann";Blu-Ray;"Mar 21, 2018";
 "Puss In Boots";"Action, Adventure, Animation, Comedy, Family, Fantasy";90;"Chris Miller";Blu-Ray;"Feb 23, 2018";"DreamWorks Home Entertainment"
 "Quantum Of Solace";"Action, Adventure";106;"Marc Forster";Blu-Ray;"Jan 15, 2018";"MGM Home Entertainment"
-"Queen: Rock Montreal & Live Aid";Music;160;"Saul Swimmer, Vincent Scarza";Blu-Ray;"Jan 15, 2018";
+"Queen: Rock Montreal & Live Aid";Music;160;"Saul Swimmer";Blu-Ray;"Jan 15, 2018";
 "Race To Witch Mountain";"Action, Adventure, Family, Fantasy, Horror, Science Fiction, Thriller";98;"Andy Fickman";Blu-Ray;"Feb 25, 2018";"Buena Vista"
 "Raising Arizona";"Action, Comedy, Crime";94;"Joel Coen, Ethan Coen";Blu-Ray;"Jan 15, 2018";Fox
+"Ralph Breaks the Internet";"Adventure, Animation, Comedy, Family, Fantasy, Science Fiction";112;"Rich Moore, Phil Johnston";"Ultra HD Blu-ray";"Mar 01, 2019";Disney
 "Rambo: First Blood Part II";"Action, Adventure, Thriller, War";97;"George P. Cosmatos";Blu-Ray;"Mar 07, 2018";"Lion's Gate Home Entertainment"
 "Rambo III";"Action, Adventure, War";102;"Peter MacDonald";Blu-Ray;"Mar 07, 2018";"Lion's Gate Home Entertainment"
 Rampage;"Action, Adventure, Fantasy, Science Fiction";107;"Brad Peyton";"Ultra HD Blu-ray";"Aug 04, 2018";"Warner Brothers"
@@ -515,7 +521,7 @@ Red;"Action, Comedy, Crime, Thriller";93;"Robert Schwentke";"Ultra HD Blu-ray";"
 "Red River";"Action, Adventure, Romance, Western";133;"Howard Hawks, Arthur Rosson";Blu-Ray;"Jun 01, 2018";"Criterion Collection"
 "Red Sonja";"Action, Adventure, Fantasy";89;"Richard Fleischer";Blu-Ray;"Jan 15, 2018";
 "Red's Dream";"Animation, Family";4;"John Lasseter";Blu-Ray;"Jun 20, 2018";
-"The Reluctant Astronaut";"Comedy, Family, Science Fiction";103;"Edward J. Montagne, Edward Montagne";Blu-Ray;"Nov 07, 2018";
+"The Reluctant Astronaut";"Comedy, Family, Science Fiction";103;"Edward Montagne";Blu-Ray;"Nov 07, 2018";
 "Reservoir Dogs";"Action, Crime, Drama, Mystery, Thriller";99;"Quentin Tarantino";Blu-Ray;"Jan 15, 2018";"Lion's Gate Home Entertainment"
 "Return From Witch Mountain";"Adventure, Family, Fantasy, Science Fiction";95;"John Hough";Blu-Ray;"Nov 07, 2018";"Buena Vista Home Entertainment"
 "The Revenant";"Action, Adventure, Drama, Thriller, Western";156;"Alejandro Gonzalez Inarritu";Blu-Ray;"May 12, 2018";"20th Century Fox Home Entertainment"
@@ -552,7 +558,7 @@ Serenity;"Action, Adventure, Crime, Science Fiction, Thriller, War";119;"Joss Wh
 Sharknado;"Action, Adventure, Horror, Science Fiction";86;"Anthony C. Ferrante";Blu-Ray;"Jan 21, 2018";
 "Sharknado 4: The 4th Awakens";"Action, Adventure, Comedy, Horror, Science Fiction";85;"Anthony C. Ferrante";Blu-Ray;"Jan 21, 2018";
 "Sharknado 5: Global Swarming";"Action, Comedy, Horror, Science Fiction";90;"Anthony C. Ferrante";Blu-Ray;"Jan 21, 2018";
-Sharktopus;"Comedy, Horror, Science Fiction, Thriller";89;"Kimble Rendall, Kevin O'Neill, John Shepphird";Blu-Ray;"Jan 24, 2018";"Anchor Bay"
+Sharktopus;"Comedy, Horror, Science Fiction, Thriller";89;"Declan O'Brien";Blu-Ray;"Jan 24, 2018";"Anchor Bay"
 "Shaun of the Dead";"Action, Comedy, Horror, Music, Thriller";100;"Edgar Wright";Blu-Ray;"Jan 15, 2018";"Universal Studios Home Entertainment"
 "Sherlock Holmes";"Action, Adventure, Crime, Drama, Horror, Mystery, Thriller";128;"Guy Ritchie";Blu-Ray;"Jan 15, 2018";"Warner Brothers"
 "Shrek Forever After";"Action, Adventure, Animation, Comedy, Family, Fantasy";93;"Mike Mitchell";Blu-Ray;"Jan 15, 2018";"Paramount Home Entertainment"
@@ -562,30 +568,31 @@ Skammen;"Drama, War";103;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 "Skepp Till India Land";Drama;98;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 Skyscraper;"Action, Drama, Thriller";109;"Rawson Marshall Thurber";"Ultra HD Blu-ray";"Oct 09, 2018";Universal
 "The Slammin' Salmon";Comedy;98;"Kevin Heffernan";Blu-Ray;"Jan 15, 2018";"Anchor Bay"
+"Slaughterhouse Rulez";"Comedy, Horror";103;"Crispian Mills";"Blu-ray Disc";"Mar 18, 2019";
 "Smiles Of A Summer Night";"Comedy, Foreign, Romance";108;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 "Smokey And The Bandit";"Action, Comedy, Crime";96;"Hal Needham";Blu-Ray;"Jan 15, 2018";Universal
 "So I Married An Axe Murderer";"Comedy, Romance, Thriller";93;"Thomas Schlamme";Blu-Ray;"Jan 15, 2018";
 "Solo: A Star Wars Story";"Action, Adventure, Family, Science Fiction";135;"Ron Howard";"Ultra HD Blu-ray";"Sep 24, 2018";"Buena Vista Home Entertainment"
 "Sommaren med Monika";"Drama, Foreign, Romance";96;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
-"Space Chimps";"Adventure, Animation, Comedy";81;"Norton Virgien, Donovan Cook, Kirk De Micco";Blu-Ray;"Jan 15, 2018";"20th Century Fox"
+"Space Chimps";"Adventure, Animation, Comedy";81;"Kirk De Micco";Blu-Ray;"Jan 15, 2018";"20th Century Fox"
 "Space Cowboys";"Action, Adventure, Anime, Comedy, Drama, Science Fiction, Thriller";130;"Clint Eastwood";Blu-Ray;"Jun 20, 2018";
 Spaceballs;"Comedy, Science Fiction";96;"Mel Brooks";Blu-Ray;"Jun 20, 2018";
-SpaceCamp;"Action, Adventure, Family, Science Fiction";103;"John Williams, Harry Winer";Blu-Ray;"Sep 26, 2018";
-Spartacus;"Action, Adventure, Drama, Romance, War";196;"Stanley Kubrick, Anthony Mann";Blu-Ray;"Jan 15, 2018";
+SpaceCamp;"Action, Adventure, Family, Science Fiction";103;"Harry Winer";Blu-Ray;"Sep 26, 2018";
+Spartacus;"Action, Adventure, Drama, Romance, War";196;"Stanley Kubrick";Blu-Ray;"Jan 15, 2018";
 Spectre;"Action, Adventure, Crime, Thriller";148;"Sam Mendes";Blu-Ray;"Apr 27, 2018";"20th Century Fox Home Entertainment"
 Spider-Man;"Action, Adventure, Animation, Comic, Fantasy, Thriller";121;"Sam Raimi";Blu-Ray;"Jun 20, 2018";
 "Spider-Man 2";"Action, Adventure, Comic, Fantasy, Thriller";136;"Sam Raimi";Blu-Ray;"Jun 20, 2018";
 "Spider-Man 3";"Action, Adventure, Comedy, Comic, Fantasy, Thriller";140;"Sam Raimi";Blu-Ray;"Jun 20, 2018";
 "Spider-Man: Homecoming";"Action, Adventure, Comic, Documentary, Fantasy, Science Fiction";133;"Jon Watts";"Ultra HD Blu-ray";"Jan 31, 2018";"Sony Pictures Home Entertainment"
 "Spies Like Us";Comedy;103;"John Landis";Blu-Ray;"Nov 11, 2018";
-"The SpongeBob Movie: Sponge Out of Water";"Adventure, Animation, Comedy, Family";93;"Paul Tibbitt";Blu-Ray;"Feb 24, 2018";
-"The SpongeBob SquarePants Movie";"Adventure, Animation, Comedy, Family";90;"Stephen Hillenburg";Blu-Ray;"Feb 24, 2018";
+"The SpongeBob Movie: Sponge Out of Water";"Adventure, Animation, Comedy, Family";93;"Mike Mitchell, Paul Tibbitt";Blu-Ray;"Feb 24, 2018";
+"The SpongeBob SquarePants Movie";"Adventure, Animation, Comedy, Family";90;"Mark Osborne, Stephen Hillenburg";Blu-Ray;"Feb 24, 2018";
 Spy;"Action, Comedy, Crime, Drama";119;"Paul Feig";Blu-Ray;"May 12, 2018";"Twentieth Century Fox Home Entertainment"
 "The Squid and the Whale";"Comedy, Drama";88;"Noah Baumbach";Blu-Ray;"Jun 17, 2018";
 "Star Trek";"Action, Adventure, Drama, Fantasy, Science Fiction";126;"J.J. Abrams";Blu-Ray;"Jan 15, 2018";
 "Star Trek Beyond";"Action, Adventure, Fantasy, Science Fiction, Thriller";122;"Justin Lin";"Ultra HD Blu-ray";"Jan 15, 2018";
 "Star Wars: Episode VIII: The Last Jedi";"Action, Adventure, Fantasy, Science Fiction";152;"Rian Johnson";"Ultra HD Blu-ray";"Apr 05, 2018";"Buena Vista Home Entertainment"
-"Stargate: Atlantis: The Complete Series";"Action, Adventure, Drama, Science Fiction";4316;"Mario Azzopardi, Brad Turner, Brenton Spencer";Blu-Ray;"Feb 12, 2018";"MGM Home Entertainment"
+"Stargate: Atlantis: The Complete Series";"Action, Adventure, Drama, Science Fiction";4316;"Paul Ziller, Mario Azzopardi, Brad Turner";Blu-Ray;"Feb 12, 2018";"MGM Home Entertainment"
 "Starship Troopers";"Action, Horror, Science Fiction, War";129;"Paul Verhoeven";"Ultra HD Blu-ray";"Feb 02, 2018";
 "Stir Crazy";Comedy;107;"Sidney Poitier";Blu-Ray;"May 29, 2018";Image
 "Stranger Than Fiction";"Comedy, Fantasy, Mystery, Romance";113;"Marc Forster";Blu-Ray;"Jan 15, 2018";"Sony Pictures Home Entertainment"
@@ -603,14 +610,14 @@ Tangled;"Animation, Comedy, Drama, Family";101;"Nathan Greno, Byron Howard";Blu-
 "The Terminator";"Action, Science Fiction";108;"James Cameron";Blu-Ray;"Jan 15, 2018";"Sony Pictures Home Entertainment"
 "Thelma & Louise";"Action, Adventure, Comedy, Crime, Drama, Thriller";129;"Ridley Scott";Blu-Ray;"May 07, 2018";MGM/UA
 "There Will Be Blood";Drama;158;"Paul Thomas Anderson";Blu-Ray;"Jan 15, 2018";Paramount
-"Thomas And Sarah";Drama;0;"John Davies";DVD;"Nov 27, 2018";"Acorn Media"
+"Thomas And Sarah";Drama;0;"David Askey, Marek Kanievska, Christopher Hodson";DVD;"Nov 27, 2018";"Acorn Media"
 "Till Glädje";"Drama, Romance";98;"Ingmar Bergman";Blu-Ray;"Nov 20, 2018";
 "Tin Toy";"Animation, Comedy, Family";5;"John Lasseter";Blu-Ray;"Jun 20, 2018";
 "Tinker Bell";"Animation, Family, Fantasy";78;"Bradley Raymond";Blu-Ray;"Jan 15, 2018";"Buena Vista Home Entertainment"
 "Tinker Bell and the Great Fairy Rescue";"Adventure, Animation, Children, Family, Fantasy";76;"Bradley Raymond";Blu-Ray;"Jan 15, 2018";"Buena Vista"
 "Tinker Bell and the Legend of the NeverBeast";"Adventure, Animation, Family, Fantasy";76;"Steve Loter";Blu-Ray;"Jan 15, 2018";"Walt Disney Home Video"
 "Tinker Bell And The Lost Treasure           ";"Animation, Children, Family, Fantasy";81;"Klay Hall";Blu-Ray;"Jan 15, 2018";"Buena Vista"
-"Tinker Bell: Secret Of The Wings";"Action, Adventure, Animation, Family, Fantasy";92;"Peggy Holmes, Roberts Gannaway, Roberts Gennaway";Blu-Ray;"Jan 15, 2018";"Buena Vista"
+"Tinker Bell: Secret Of The Wings";"Action, Adventure, Animation, Family, Fantasy";92;"Peggy Holmes, Roberts Gannaway";Blu-Ray;"Jan 15, 2018";"Buena Vista"
 "Tinker Tailor Soldier Spy";"Action, Drama, Mystery, Suspense, Thriller";128;"Tomas Alfredson";Blu-Ray;"May 09, 2018";"Universal Studios Home Entertainment"
 "To Be Or Not To Be";"Comedy, Drama, War";103;"Alan Johnson";Blu-Ray;"Jun 20, 2018";
 "Tomb Raider";"Action, Adventure, Drama, Fantasy, Mystery, Thriller";118;"Roar Uthaug";"Ultra HD Blu-ray";"Jun 17, 2018";"Warner Brothers"
@@ -636,12 +643,12 @@ Unbroken;"Action, Drama, War";137;"Angelina Jolie";Blu-Ray;"Jan 15, 2018";"Unive
 Unforgiven;"Crime, Drama, Western";124;"Clint Eastwood";Blu-Ray;"Jun 20, 2018";
 Unforgiven;"Crime, Drama, Western";131;"Clint Eastwood";"Ultra HD Blu-ray";"Jan 16, 2018";"Warner Bros."
 Unsane;"Drama, Horror, Thriller";98;"Steven Soderbergh";"Ultra HD Blu-ray";"Sep 15, 2018";Universal
-Up;"Action, Adventure, Animation, Drama, Family, Fantasy";92;"Bob Peterson, Pete Docter";Blu-Ray;"Jan 15, 2018";"Walt Disney Studios Home Entertainment"
-"Upstairs, Downstairs: Season 1";Drama;650;"Herbert Wise";DVD;"Nov 27, 2018";"Acorn Media"
-"Upstairs, Downstairs: Season 2";Drama;780;"Raymond Menmuir";DVD;"Nov 27, 2018";"Acorn Media"
-"Upstairs, Downstairs: Season 3";"Drama, Thriller";780;"Bill Bain";DVD;"Nov 27, 2018";"Acorn Media"
-"Upstairs, Downstairs: Season 4";Drama;780;"Derek Bennett";DVD;"Nov 27, 2018";"Acorn Media"
-"Upstairs, Downstairs: Season 5";Drama;960;"Bill Bean";DVD;"Nov 27, 2018";"Acorn Media"
+Up;"Action, Adventure, Animation, Drama, Family, Fantasy";92;"Peter Docter, Bob Peterson";Blu-Ray;"Jan 15, 2018";"Walt Disney Studios Home Entertainment"
+"Upstairs, Downstairs: Season 1";Drama;650;"Herbert Wise, Raymond Menmuir, Derek Bennett";DVD;"Nov 27, 2018";"Acorn Media"
+"Upstairs, Downstairs: Season 2";Drama;780;"Christopher Hodson, Raymond Menmuir, Derek Bennett";DVD;"Nov 27, 2018";"Acorn Media"
+"Upstairs, Downstairs: Season 3";"Drama, Thriller";780;"Christopher Hodson, Derek Bennett, Cyril Coke";DVD;"Nov 27, 2018";"Acorn Media"
+"Upstairs, Downstairs: Season 4";Drama;780;"Christopher Hodson, Raymond Menmuir, Derek Bennett";DVD;"Nov 27, 2018";"Acorn Media"
+"Upstairs, Downstairs: Season 5";Drama;960;"Simon Langton, Christopher Hodson, Derek Bennett";DVD;"Nov 27, 2018";"Acorn Media"
 "Valerian and the City of a Thousand Planets";"Action, Adventure, Comic, Drama, Fantasy, Science Fiction";137;"Luc Besson";Blu-Ray;"May 12, 2018";"Lion's Gate Home Entertainment"
 "Vampires Suck";"Comedy, Horror";82;"Jason Friedberg, Aaron Seltzer";Blu-Ray;"Jun 17, 2018";
 "Vantage Point";"Action, Crime, Drama, Suspense, Thriller";90;"Pete Travis";Blu-Ray;"Apr 07, 2018";"Sony Pictures"
@@ -656,8 +663,8 @@ Watchmen;"Action, Adventure, Animation, Fantasy, Mystery, Science Fiction";162;"
 "Wayne's World";"Comedy, Foreign, Music";94;"Penelope Spheeris";Blu-Ray;"Jan 15, 2018";Paramount
 "Wayne's World 2";"Comedy, Music";95;"Stephen Surjik";Blu-Ray;"Jan 15, 2018";
 "We're the Millers";"Action, Adventure, Comedy";110;"Rawson Marshall Thurber";Blu-Ray;"Feb 23, 2018";"New Line Home Video"
-"Westworld: Season 1";"Drama, Mystery, Science Fiction, Thriller, Western";600;;"Ultra HD Blu-ray";"May 07, 2018";
-"What We Do In The Shadows";"Comedy, Horror";86;"Jemaine Clement, Taika Waititi";Blu-Ray;"Jul 22, 2018";
+"Westworld: Season 1";"Drama, Mystery, Science Fiction, Thriller, Western";600;"Vincenzo Natali, Jonny Campbell, Neil Marshall";"Ultra HD Blu-ray";"May 07, 2018";
+"What We Do In The Shadows";"Comedy, Horror";86;"Jemaine Clement, Taika Cohen";Blu-Ray;"Jul 22, 2018";
 "What's New, Pussycat?";Comedy;104;"Clive Donner";Blu-Ray;"Nov 30, 2018";"Kino Lorber Studio Classics"
 "Where Eagles Dare";"Action, Adventure, War";158;"Brian G. Hutton";Blu-Ray;"Jun 20, 2018";
 "White House Down";"Action, Drama, Family, Thriller";131;"Roland Emmerich";Blu-Ray;"Jun 20, 2018";
@@ -668,6 +675,7 @@ Watchmen;"Action, Adventure, Animation, Fantasy, Mystery, Science Fiction";162;"
 "The Wolverine";"Action, Adventure, Fantasy, Science Fiction, Thriller, War";126;"James Mangold";Blu-Ray;"Mar 27, 2018";
 "World War Z";"Action, Adventure, Horror, Science Fiction, Thriller";122;"Marc Forster";Blu-Ray;"Jan 21, 2018";"Paramount Home Entertainment"
 "The World's End";"Action, Comedy, Science Fiction";109;"Edgar Wright";Blu-Ray;"Jan 15, 2018";Universal
+"Wrath Of The Titans";"Action, Adventure, Animation, Fantasy";99;"Jonathan Liebesman";"Blu-ray Disc";"Feb 27, 2019";
 "Wreck-It Ralph";"Adventure, Animation, Comedy, Family";101;"Rich Moore";Blu-Ray;"Jan 15, 2018";"Buena Vista Home Entertainment"
 "Wyatt Earp";"Action, Adventure, Biography, Romance, Western";191;"Lawrence Kasdan";Blu-Ray;"Jun 20, 2018";
 X-Men;"Action, Adventure, Animation, Comic, Science Fiction";104;"Bryan Singer";Blu-Ray;"Mar 27, 2018";
