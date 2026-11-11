@@ -1,6 +1,6 @@
-# blu-ray-HD-UHD-discs
+# Bluray HD and 4K Disc Collection @srv1054
 
-Most Current Master List is:  `Disc-Collection-2026-Master.csv` (or xlsx)
+[Disc Collection 2026 Master](Disc-Collection-2026-Master.csv)
 
-Legacy Export of Collectorz.com Blu-ray HD and UHD(4k) disc list
+[Disc Collection 2026 Master — 4K UHD Only](Disc-Collection-2026-Master-4KUHD%28Only%29.csv)
 
